@@ -48,6 +48,4 @@ Analysis demonstrates while the available survey data and visualizations provide
 
 Instead, the observed trends suggest that office hours may be more reactive than preventative, serving students who are already struggling rather than directly increasing understanding across the board.
 
-This highlights the importance of interpreting data within its broader context and recognizing limitations such as skewed distributions and missing variables.
-
-Moving forward, a more controlled approach to data collection and analysis would be necessary to determine the true impact of office hours, but this initial exploration still provides a strong foundation for considering how course structures can better support student learning and engagement
+A more controlled approach to data collection and analysis would be necessary to find the true impact of office hours, but this initial analysis still provides a strong foundation for considering how course structures can better support student learning and engagement.
