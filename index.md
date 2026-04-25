@@ -26,23 +26,21 @@ fall into each office hour attendance category, allowing me to explore both
 the relationship between the variables and the distribution of the data.
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/ex09_website/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="500"/>
-
-<img src="/ex09_website/static/imgs/scatter.png" alt="Image of Comp110 rainbow logo." width="500"/>
-
 ## Graph 1. Relationship Between Office Hour Visits and Understanding
 
 This scatterplot displays the relationship between the number of office hour visits and students’ self-reported understanding. The data does not show a strong positive trend, suggesting little to no clear correlation between increased attendance and higher understanding.
 
-<img src="/ex09_website/static/imgs/barplot.png" alt="Image of Comp110 rainbow logo." width="500"/>
+<img src="/ex09_website/static/imgs/scatter.png" alt="Image of Comp110 rainbow logo." width="500"/>
 
 ## Graph 2. Average Understanding by Office Hour Attendance
 This bar chart shows the average understanding score for each level of office hour visits. The slight downward trend suggests that students who attend more office hours may report lower understanding, likely reflecting that struggling students are more likely to seek help.
 
-<img src="/ex09_website/static/imgs/countplot.png" alt="Image of Comp110 rainbow logo." width="500"/>
+<img src="/ex09_website/static/imgs/barplot.png" alt="Image of Comp110 rainbow logo." width="500"/>
 
 ## Graph 3. Distribution of Office Hour Attendance
 This count plot illustrates how many students fall into each office hour attendance category. The distribution is heavily skewed toward lower attendance, with most students attending zero or one session, which limits conclusions about frequent attendees.
+
+<img src="/ex09_website/static/imgs/countplot.png" alt="Image of Comp110 rainbow logo." width="500"/>
 
 ## Concluding Statements
 
