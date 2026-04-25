@@ -18,16 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Super Duper Cool Website for EX09 Assignment
+email: daieric@ad.unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Summary of Findings: 
+  In this project, I analyzed whether there is a relationship between the number 
+  of office hour visits (oh_visits) and students’ self-reported understanding of 
+  course material (understanding). The data was first loaded using read_csv_rows, 
+  converted into a column-based format using columnar, and combined into 
+  a single dataset. I then selected the relevant columns and used head to preview 
+  the data and count to examine how frequently students attend office hours. 
+  Because all values from the CSV were initially stored as strings, I converted 
+  the oh_visits and understanding columns into integers using 
+  convert_columns_to_int to allow for numerical analysis. I then created three 
+  visualizations using seaborn: A scatterplot to examine the relationship between 
+  office hour visits and understanding, a bar chart showing the average understanding 
+  for each number of office hour visits (using a custom helper function), and a count plot 
+  showing how many students fall into each office hour attendance category. 
+  These visualizations allowed me to explore both the relationship between 
+  variables and the distribution of the data.  
+baseurl: "ex09_website" # the subpath of your site, e.g. /blog
+url: "daieric05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: don't use twitter :(
+github_username:  daieric05
 
 # Build settings
 # Build settings
