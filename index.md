@@ -44,8 +44,20 @@ This count plot illustrates how many students fall into each office hour attenda
 
 ## Concluding Statements
 
-Analysis demonstrates while the available survey data and visualizations provide useful insight into patterns between office hour attendance and student understanding, they do not establish a clear or causal relationship between the two.
+Analysis demonstrates that while the available survey data and visualizations 
+provide useful insight into patterns between office hour attendance and student 
+understanding, they do not establish a clear or causal relationship between the two. 
 
-Instead, the observed trends suggest that office hours may be more reactive than preventative, serving students who are already struggling rather than directly increasing understanding across the board.
+For example, average understanding decreases from approximately 4.62 for students 
+with zero office hour visits to values closer to 3 as the number of visits increases, 
+while the distribution of students is heavily skewed, with around 318 students 
+reporting no visits and only about 10–24 students in higher attendance categories.  
 
-A more controlled approach to data collection and analysis would be necessary to find the true impact of office hours, but this initial analysis still provides a strong foundation for considering how course structures can better support student learning and engagement.
+Instead, the observed trends suggest that office hours may be more reactive than 
+preventative, serving students who are already struggling rather than directly 
+increasing understanding across the board.  
+
+A more controlled approach to data collection and analysis would be necessary to 
+determine the true impact of office hours, but this initial analysis still provides 
+a strong foundation for considering how course structures can better support 
+general student learning and engagement.
