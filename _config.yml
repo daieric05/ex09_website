@@ -37,8 +37,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   showing how many students fall into each office hour attendance category. 
   These visualizations allowed me to explore both the relationship between 
   variables and the distribution of the data.  
-baseurl: "ex09_website" # the subpath of your site, e.g. /blog
-url: "daieric05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ex09_website" # the subpath of your site, e.g. /blog
+url: "https://daieric05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: don't use twitter :(
 github_username:  daieric05
 

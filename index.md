@@ -26,7 +26,7 @@ fall into each office hour attendance category, allowing me to explore both
 the relationship between the variables and the distribution of the data.
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="/ex09_website/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="500"/>
 
 ## Concluding Statements
 
